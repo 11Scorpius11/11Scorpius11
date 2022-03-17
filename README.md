@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Nkosana Khoza] AKA ()=> @11Scorpius11
+- 👋 Hi, I’m Nkosana Khoza
 - 👀 I’m interested in Cybersecurity, Software Development And Automation
 - 🌱 I’m currently learning Test Automation Frameworks 
 - 💞️ I’m looking to collaborate on Everything And Anything
